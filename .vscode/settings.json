@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\cenar\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe"
+    "python.pythonPath": "C:\\Users\\cenar\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+    "python.pipenvPath": "venv"
 }
